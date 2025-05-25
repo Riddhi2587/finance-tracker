@@ -25,6 +25,8 @@ pip install fastapi uvicorn sqlalchemy pydantic
 Run the backend server:
 uvicorn main:app --reload
 
+Backend runs at: http://127.0.0.1:8000
+
 ### Frontend Setup
 
 Navigate to frontend directory:
