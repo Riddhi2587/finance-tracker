@@ -18,16 +18,16 @@ A full-stack personal finance tracker built with FastAPI and React. Track your i
 ## 📁 Project Structure
 
 finance-tracker/
-├── main.py # FastAPI backend
-├── finance.db # SQLite database
-├── frontend/ # React frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── FinanceDashboard.jsx
-│ │ └── App.js
-│ ├── package.json
-│ └── ...
+├── main.py        # FastAPI backend
+├── finance.db     # SQLite database
+├── frontend/      # React frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── FinanceDashboard.jsx
+│   │   └── App.js
+│   ├── package.json
+│   └── ...
 └── README.md
 
 ## Getting Started
