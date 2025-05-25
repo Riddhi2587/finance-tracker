@@ -1,4 +1,4 @@
-# finance-tracker
+![image](https://github.com/user-attachments/assets/ebd380f9-9d9a-4453-be7a-b3f5396c2e07)# finance-tracker
 # 💰 Personal Finance Tracker
 
 A full-stack personal finance tracker built with FastAPI and React. Track your income and expenses, set budgets, and visualize your financial data month by month.
@@ -40,3 +40,4 @@ npm start
 
 Frontend runs at: http://localhost:3000
 
+![image](https://github.com/user-attachments/assets/6509762d-dcbc-4152-ae26-59cdaffffbde)
