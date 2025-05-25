@@ -13,22 +13,6 @@ A full-stack personal finance tracker built with FastAPI and React. Track your i
 - 💽 SQLite – Lightweight database
 - 🔄 Axios – For communicating with the backend
 
----
-
-## 📁 Project Structure
-
-finance-tracker/
-├── main.py        # FastAPI backend
-├── finance.db     # SQLite database
-├── frontend/      # React frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   └── FinanceDashboard.jsx
-│   │   └── App.js
-│   ├── package.json
-│   └── ...
-└── README.md
 
 ## Getting Started
 
@@ -41,7 +25,7 @@ pip install fastapi uvicorn sqlalchemy pydantic
 Run the backend server:
 uvicorn main:app --reload
 
-Frontend Setup
+### Frontend Setup
 
 Navigate to frontend directory:
 cd finance-frontend
